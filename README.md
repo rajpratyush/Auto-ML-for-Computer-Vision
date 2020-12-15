@@ -1,4 +1,4 @@
-AutoML for Computer Vision with Microsoft Custom Vision
+# AutoML for Computer Vision with Microsoft Custom Vision
 
 Below are the instructions to run the image classification web app on your computer: 
 
